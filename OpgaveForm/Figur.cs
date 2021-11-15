@@ -11,7 +11,7 @@ namespace OpgaveForm
         public virtual void Areal()
         {
           
-                Console.WriteLine("Du har lavet en sucessfuld fejl!");
+                Console.WriteLine("\nDu har lavet en sucessfuld fejl!");
         }
     }
 }

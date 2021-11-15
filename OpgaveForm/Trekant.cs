@@ -37,7 +37,7 @@ namespace OpgaveForm
             
             double areal = højde * Grundlinje;
 
-            Console.WriteLine($"Arealen på trekanten er: {areal:n2} \nHøjden er: {højde} og grundlinjen er: {grundlinje}");
+            Console.WriteLine($"\nArealen på trekanten er: {areal:n2} \nHøjden er: {højde} og grundlinjen er: {grundlinje}");
         }
 
     }
